@@ -1,0 +1,13 @@
+.Price-card{
+    background-color:  hsl(240, 78%, 98%);
+    color: hsl(233, 13%, 49%);
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat',sans-serif;
+    text-align: center;
+    direction: row; 
+    padding: 10px;
+    margin: 15px;
+
+   
+}

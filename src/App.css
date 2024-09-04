@@ -1,0 +1,33 @@
+
+.main{
+
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 85%;
+  width: 85%;
+  margin: auto;
+  background-color:rgb(247, 245, 250);
+  display: flex;
+}
+.content{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  background-color: blanchedalmond;
+
+}
+.header{
+  display: flex;
+  align-items: center;
+ 
+}
+
+
+
+
+
+
+
+
